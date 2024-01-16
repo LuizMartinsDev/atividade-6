@@ -1,0 +1,110 @@
+
+
+.container-list{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.list{
+    text-align: center;
+    margin: 4px;
+    padding: 10px;
+    border: 1.5px solid black;
+    list-style: none;
+}
+
+
+
+.father{
+    border: 1.5px solid red;
+    color: red;
+}
+
+.mother{
+    border: 1.5px solid green;
+    color: green;
+}
+
+.son{
+    border: 1.5px solid blue;
+    color: blue;
+}
+
+.daughter{
+    border: 1.5px solid pink;
+    color: pink;
+}
+
+.container-table{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-table{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 20px 0;
+}
+
+.h3-father{
+    color: red;
+}
+
+.h3-mother{
+    color: green;
+}
+
+.h3-son{
+    color: blue;
+}
+
+.h3-daughter{
+    color: pink;
+}
+
+.table{
+    width: 800px;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.table-father {
+  border: 2px solid red; 
+  color: red;
+}
+
+.table-mother {
+    border: 2px solid green;
+    color: green;
+}
+
+.table-son  {
+    border: 2px solid blue;
+    color: blue;
+}
+
+.table-daughter{
+    border: 1.5px solid pink;
+    color: pink;
+}
+
+.list-tasks{
+    text-align: center;
+    margin: 4px;
+    padding: 0;
+    border: none;
+}
+
